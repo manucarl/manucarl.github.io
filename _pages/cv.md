@@ -20,7 +20,6 @@ Work experience
 * 2020 - 2021: Postdoctoral Researcher
   * University of Göttingen
   * Duties included: 
-  * Supervisor: Professor Git
 
 * 2016 - 2020: Research Assistant
   * University of Göttingen
@@ -31,15 +30,16 @@ Work experience
   * University of Göttingen
   * Duties included: Supporting development of statistical software [BayesX](https://www.uni-goettingen.de/de/what+is+bayesx/550520.html)
   * Supervisor: Professor Nadja Klein
+  
+* 2013: Intern
+  * Institute of Employment Research / Research Data Centre
+  * Duties: Supporting record linkage process via Stata/R/KNIME
 
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Python
+* Stan
 
 Publications
 ======
