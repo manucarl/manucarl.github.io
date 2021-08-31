@@ -12,7 +12,7 @@ Education
 ======
 * Ph.D in Applied Statistics - Thesis about Bayesian Modeling, 2021
 * M.Sc. in Applied Statistics,  University of Göttingen, 2016
-* B.A. in Economics / Philosophy, University of Göttingen / Seoul National Unversity, 2014
+* B.A. in Economics & Philosophy, University of Göttingen & Seoul National Unversity, 2014
 
 
 Work experience
@@ -59,6 +59,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

@@ -6,12 +6,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "CV"
+  - title: "CV, Papers and Talks"
     url: /cv/
 
-  - title: "Papers and Talks"
-    url: /publications/
-  
   - title: "Teaching"
     url: /teaching/    
     
