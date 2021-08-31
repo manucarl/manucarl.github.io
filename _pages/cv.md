@@ -7,26 +7,31 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Applied Statistics - Thesis about Bayesian Modeling, 2021
+* M.Sc. in Applied Statistics,  University of Göttingen, 2016
+* B.A. in Economics / Philosophy, University of Göttingen / Seoul National Unversity, 2014
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* 2020 - 2021: Postdoctoral Researcher
+  * University of Göttingen
+  * Duties included: 
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2016 - 2020: Research Assistant
+  * University of Göttingen
+  * Duties included: 
+  * Supervisor: Professor Thomas Kneib
+
+* 2014 - 2016: Student Research Assistant
+  * University of Göttingen
+  * Duties included: Supporting development of statistical software [BayesX](https://www.uni-goettingen.de/de/what+is+bayesx/550520.html)
+  * Supervisor: Professor Nadja Klein
+
 Skills
 ======
 * Skill 1
