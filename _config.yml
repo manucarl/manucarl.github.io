@@ -85,12 +85,12 @@ author:
   bio              : "Data Scientist and Applied Statistician"
   location         : "Göttingen/Hamburg"
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : m.carlan.87@gmail.com
-  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  #uri              :
-  #bitbucket        :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
