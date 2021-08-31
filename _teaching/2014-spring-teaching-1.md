@@ -9,14 +9,6 @@ location: "City, Country"
 
 
 
-\newcommand{\matr}{\boldsymbol}
-\newcommand{\E}{\mathbb{E}}
-\newcommand{\Var}{\mathbb{Var}}
-\newcommand{\bvec}{\matr{\beta}}
-\newcommand{\xb}{\matr{x}^\prime\bvec}
-
-
-
 
 # 1. Introduction - Roadmap for this semester
 
