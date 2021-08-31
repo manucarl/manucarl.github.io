@@ -9,16 +9,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
+  - title: "Papers and Talks"
     url: /publications/
   
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching/"
     url: /teaching/    
-    
-
     
   - title: "Guide"
     url: /markdown/
