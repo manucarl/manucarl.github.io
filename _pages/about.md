@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I grasp stuff when I write about it. This is why I started this website more as a personal diary.
+I write to learn.
