@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Department of Statistics"
-date:  
+date: 2021
 location: "Göttingen University"
 ---
 
