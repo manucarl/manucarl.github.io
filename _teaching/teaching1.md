@@ -1,20 +1,21 @@
 ---
-title: "University of Waterloo"
+title: "University of Göttingen"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Department of Applied Mathematics"
-date:  2014-09-01
-location: "Waterloo Ontario"
+venue: "Department of Statistics"
+date:  
+location: "Göttingen University"
 ---
 
-I performed teaching assistant duties for various courses in the applied mathematics department at the University of Waterloo.  Shown below is a complete list of courses I have TA'd at The University of Waterloo.
+I taught various courses in applied statistics as a teaching assistant and postdoc.
+
+* Multivariate Statistics (Practical - Summer 21)
+* Statistic Coaching (Summer 21)
+* Generalized Regression (Lecture - Summer 20)
+* Mathematical Foundations of Applied Statistics (Practical - Winter 19/20)
+* Statistical Programming (Lecture - Winter 20/21)
+* Seminar in Bayesian Statistics (Seminar - Winter 17/18, 18/19)
+* Statistics (Practical - Summer 17 & 18, Winter 17/18 & 18/19)
 
 
-
-* Mathematics 116 (Engineering Calculus I) Fall 2014 <sup>1</sup>, Fall 2015
-* Mathematics 119 (Engineering Calculus II) Winter 2015
-* Mathematics 136 (Honors Calculus for Math Students I) Fall 2014
-* Applied Mathematics 250 (Introduction to Differential Equations) Spring 2015, Winter 2015
-
-<sup>1</sup> Nominated for Teaching Assistant Award by students.
